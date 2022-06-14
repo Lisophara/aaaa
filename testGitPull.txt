@@ -5,9 +5,5 @@ sssss
 444444
 44444
 5555
-<<<<<<< Updated upstream
-sssasd
-=======
-asdasda
-asdasdasd
->>>>>>> Stashed changes
+sasdasdasdasdad
+ssss
